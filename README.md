@@ -1,3 +1,3 @@
 # learning-git
-Hey there,
+Hey there, Friends
 I am learning Git and GitHub.
